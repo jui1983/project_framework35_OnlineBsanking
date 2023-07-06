@@ -1,0 +1,6 @@
+com/pageobjectmodel/LoginPage.class
+com/generic/Login.class
+com/generic/Onlinebanking.class
+com/generic/StepDef.class
+com/pageobjectmodel/LoginPage2.class
+com/utill/BaseConfig.class
