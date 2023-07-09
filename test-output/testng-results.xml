@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-04T10:59:35 EDT" name="Suite" finished-at="2023-07-04T11:00:01 EDT" duration-ms="25946">
+  <suite started-at="2023-07-07T15:08:54 EDT" name="Default suite" finished-at="2023-07-07T15:09:08 EDT" duration-ms="13396">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-07-04T10:59:35 EDT" name="Test" finished-at="2023-07-04T11:00:01 EDT" duration-ms="25946">
+    <test started-at="2023-07-07T15:08:54 EDT" name="Default test" finished-at="2023-07-07T15:09:08 EDT" duration-ms="13396">
       <class name="com.regression.OnlinebankingRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-04T10:59:35 EDT" name="setUpClass" finished-at="2023-07-04T10:59:35 EDT" duration-ms="574" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-07T15:08:54 EDT" name="setUpClass" finished-at="2023-07-07T15:08:55 EDT" duration-ms="508" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@50085d9c]]>
+                <![CDATA[org.testng.TestRunner@388c519]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-04T10:59:35 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-07-04T10:59:58 EDT" duration-ms="22228" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-07T15:08:55 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-07-07T15:09:05 EDT" duration-ms="9801" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-04T10:59:58 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-07-04T11:00:00 EDT" duration-ms="2618" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-07T15:09:05 EDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-07-07T15:09:07 EDT" duration-ms="2575" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,11 +53,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-04T11:00:00 EDT" name="tearDownClass" finished-at="2023-07-04T11:00:01 EDT" duration-ms="459" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.regression.OnlinebankingRunner@783a467b]" started-at="2023-07-07T15:09:07 EDT" name="tearDownClass" finished-at="2023-07-07T15:09:08 EDT" duration-ms="450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.regression.OnlinebankingRunner -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
